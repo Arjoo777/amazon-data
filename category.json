@@ -1,0 +1,37 @@
+[
+    {
+        "category_id":1,
+        "category_name":"Clothing",
+        "category_image":"https://i.ibb.co/hH3DmgV/images-q-tbn-ANd9-Gc-Qn-Ndk-KSe1-IGESWNhkhw2vht8-Xl0-Vem4-T0-F0m6b6-Lj3-Hs3tk-XABJWGw-Iu-Am-Gc-Tjb1j.jpg"
+       
+        
+    },
+    {
+        "category_id":2,
+        "category_name":"Electronics",
+        "category_image":"https://i.ibb.co/rF6bmz4/electronics.jpg"
+        
+    },
+    {
+        "category_id":3,
+        "category_name":"Gift",
+        "category_image":"https://i.ibb.co/NmkYGgV/gift.jpg"
+
+    },
+    {
+        "category_id":4,
+        "category_name":"BeautyProduct",
+        "category_image":"https://i.ibb.co/ByBjnQ4/beautyproducts.jpg"
+    },
+    {
+        "category_id":5,
+        "category_name":"Dryfruits",
+        "category_image":"https://i.ibb.co/LkmF0w0/dryfruits.jpg"
+    },
+    {
+        "category_id":6,
+        "category_name":"HomeEssentials",
+        "category_image":"https://i.ibb.co/YP7c2gH/homeessentials.jpg"
+    }
+
+]

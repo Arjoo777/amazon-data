@@ -1,0 +1,142 @@
+[
+{
+"image":"https://i.ibb.co/h7Gy4S5/71-D8b-JCAuk-L-SX679.jpg",
+"category_id":5,
+"category_name":"Dryfruits",
+"brand":"Paper Boat",
+"description":"Paper Boat Protein Crunch, Premium Nuts SuperMix, Healthy Mixed Nuts with Dry Fruits | Almonds | Cashews | Pistachio | Chickpeas, Jar (1000g)",
+"new_price":1350,
+"old_price":1800,
+"discount":25,
+"delivery_type":"Free delivery",
+"stars":4,
+"item_id":1
+},
+
+{
+"image":"https://i.ibb.co/F7JR7F5/71-M6k-Mdnq-TL-AC-UL480-QL65.jpg",
+"category_id":5,
+"category_name":"Dryfruits",
+"brand":"Happilo",
+"description":"Happilo 100% Natural Premium California Almonds 200 g Dried | Premium Badam Giri | High in Fiber & Boost Immunity | Real Nuts | Gluten Free & Zero Cholesterol",
+"new_price":165,
+"old_price":275,
+"discount":40,
+"delivery_type":"Free delivery",
+"stars":4,
+"item_id":2
+},
+
+{
+"image":"https://i.ibb.co/tx7Byq8/71-P2i-OAIi9-L-AC-UL640-QL65.jpg",
+"category_id":5,
+"category_name":"Dryfruits",
+"brand":"Happilo",
+"description":"Happilo 100% Natural Premium Whole Cashews 500g Value Pack |Whole Crunchy Cashew | Premium Kaju nuts | Nutritious & Delicious | Gluten Free & Plant based Protein",
+"new_price":425,
+"old_price":775,
+"discount":45,
+"delivery_type":"Free delivery",
+"stars":4,
+"item_id":3
+},
+
+{
+"image":"https://i.ibb.co/McdLZPb/91stm-UWKlf-L-AC-UL480-QL65.jpg",
+"category_id":5,
+"category_name":"Dryfruits",
+"brand":"Amazon Brand - Vedaka",
+"description":"Amazon Brand - Vedaka Popular Raisins, 1 kg",
+"new_price":349,
+"old_price":800,
+"discount":56,
+"delivery_type":"Free delivery",
+"stars":4,
+"item_id":4
+},
+
+{
+"image":"https://i.ibb.co/SPNxL9w/81-YCkq-Au-WWL-AC-UL480-QL65.jpg",
+"category_id":5,
+"category_name":"Dryfruits",
+"brand":"Amazon Brand - Vedaka",
+"description":"Amazon Brand - Vedaka Raw Peanuts, Pink, 1kg",
+"new_price":165,
+"old_price":275,
+"discount":40,
+"delivery_type":"Free delivery",
+"stars":3.5,
+"item_id":5
+},
+
+{
+"image":"https://i.ibb.co/xL6zysv/61e-R0-BKq3-ML-AC-UL480-QL65.jpg",
+"category_id":5,
+"category_name":"Dryfruits",
+"brand":"Paper Boat",
+"description":"Paper Boat Roasted Mixed Nuts with Wayanad Pepper, Premium Dry Fruit Mix | Almonds & Cashews, Pouch (200g)",
+"new_price":288,
+"old_price":360,
+"discount":20,
+"delivery_type":"Free delivery",
+"stars":4.5,
+"item_id":6
+},
+
+{
+"image":"https://i.ibb.co/q0Ybjjp/610-RHe3-MYr-S-AC-UL480-QL65.jpg",
+"category_id":5,
+"category_name":"Dryfruits",
+"brand":"True Elements",
+"description":"True Elements Fitness Dry Fruits Mix 250g - Mix of 50% Dried Fruits & 33% Seeds | Trail Mix | Mix Dry Fruits | Seeds for Eating",
+"new_price":382,
+"old_price":499,
+"discount":23,
+"delivery_type":"Free delivery",
+"stars":4,
+"item_id":7
+},
+
+{
+"image":"https://i.ibb.co/MDcfCL4/61h4-Npnld0-L-AC-UL480-QL65.jpg",
+"category_id":5,
+"category_name":"Dryfruits",
+"brand":"Nuts",
+"description":"Nuts About You PUMPKIN SEEDS, 250 g",
+"new_price":155,
+"old_price":300,
+"discount":48,
+"delivery_type":"Free delivery",
+"stars":4.5,
+"item_id":8
+},
+
+{
+"image":"https://i.ibb.co/cNDQ3L7/91ny3k748a-L-AC-UL480-QL65.jpg",
+"category_id":5,
+"category_name":"Dryfruits",
+"brand":"Amazon Brand - Vedaka",
+"description":"Amazon Brand - Vedaka Premium Black Raisins, 100 g",
+"new_price":155,
+"old_price":300,
+"discount":48,
+"delivery_type":"Free delivery",
+"stars":4.5,
+"item_id":9
+},
+
+{
+"image":"https://i.ibb.co/C2mGc2z/51-Qap-Lgziw-L-AC-UL480-QL65.jpg",
+"category_id":5,
+"category_name":"Dryfruits",
+"brand":"True Elements",
+"description":"True Elements",
+"new_price":257,
+"old_price":295,
+"discount":13,
+"delivery_type":"Free delivery",
+"stars":4.5,
+"item_id":10
+}
+
+]
