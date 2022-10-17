@@ -1,0 +1,32 @@
+[
+{
+"name": "Akash",
+        "email": "akash@gmail.com",
+        "address": "Wagholi",
+        "phone": 7775868769,
+        "cost": 787,
+	"item":[5,2],
+        "status": "Pending"
+},
+
+{
+"name": "Arjoo",
+        "email": "arjoo@gmail.com",
+        "address": "Hinjewadi",
+        "phone": 9284542744,
+        "cost": 1000,
+	"item":[1,3],
+        "status": "Pending"
+},
+
+{
+"name": "Rahul",
+        "email": "rahul@gmail.com",
+        "address": "Wagholi",
+        "phone": 768768686,
+        "cost": 787,
+	"item":[6,7],
+        "status": "Pending"
+}
+
+]
